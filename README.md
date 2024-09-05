@@ -11,8 +11,7 @@ To get started with the Hosiery Cart Web App, follow these steps:
 
 Clone the Repository:
 
-git clone https://github.com/yourusername/hosiery-cart.git
-cd hosiery-cart
+
 Edit Resource Locations: Locate the configuration files in the project and update the resource paths as needed.
 
 Integrate Payment Gateway: Choose a payment gateway provider and follow their API documentation to integrate it into the application.
